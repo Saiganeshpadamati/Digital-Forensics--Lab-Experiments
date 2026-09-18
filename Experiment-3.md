@@ -35,7 +35,7 @@ Open **Wireshark** on the Windows system or Linux virtual machine.
 
 Select the appropriate network interface, such as the wireless network interface, and start packet capture.
 <img width="1218" height="840" alt="image" src="https://github.com/user-attachments/assets/876d631f-18f0-4699-ac7b-b6c129be2d15" />
-<img width="1568" height="820" alt="image" src="https://github.com/user-attachments/assets/57f481fb-e836-42b7-b1df-5c9ecb09be86" />
+
 
 ---
 
