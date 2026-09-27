@@ -200,6 +200,8 @@ C:\Users\User\AppData\Local\Temp\
 
 The original experiment recommends checking whether the process is located in a legitimate directory.
 
+<img width="464" height="343" alt="WhatsApp Image 2026-09-27 at 7 21 15 PM" src="https://github.com/user-attachments/assets/b9e1c8af-fe6f-4105-b671-3c76c7783091" />
+
 ---
 
 # 8. Monitor CPU, Memory, and Disk Usage
