@@ -198,6 +198,8 @@ with the actual inode number identified during the file-system analysis.
 
 The recovered file is saved to the specified output file.
 
+<img width="1600" height="220" alt="WhatsApp Image 2026-09-27 at 7 00 53 PM" src="https://github.com/user-attachments/assets/f773e302-faf7-4125-a9e7-a3d5b2072d51" />
+
 ---
 
 # 6. Analyze File Metadata
@@ -226,6 +228,9 @@ The metadata can include information such as:
 * File-system information
 
 The original experiment specifically uses `istat` to examine timestamps, file size, and allocation status.
+
+<img width="1600" height="177" alt="WhatsApp Image 2026-09-27 at 7 03 52 PM" src="https://github.com/user-attachments/assets/710bc0e0-5c6c-4835-8d90-f17d9ccbce4a" />
+
 
 <img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/d72c08b0-43df-460a-94eb-01f0f6d38d8f" />
 
