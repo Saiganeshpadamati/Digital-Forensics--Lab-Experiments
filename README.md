@@ -38,7 +38,6 @@ This repository contains practical experiments performed as part of the **Digita
 These experiments are intended for **educational purposes and authorized forensic investigations only**. Always use test systems, sample data, and controlled laboratory environments.
 
 ## Author
-
-** Padamati Sai Ganesh Yadav **  
+Padamati Sai Ganesh Yadav  
 B.Tech – Computer Science and Engineering  
 Kalasalingam University
